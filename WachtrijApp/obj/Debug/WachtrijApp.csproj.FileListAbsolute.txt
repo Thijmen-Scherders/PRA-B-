@@ -10,3 +10,15 @@ C:\git\WachtrijApp\WachtrijApp\obj\Debug\WachtrijApp.csproj.GenerateResource.cac
 C:\git\WachtrijApp\WachtrijApp\obj\Debug\WachtrijApp.csproj.CoreCompileInputs.cache
 C:\git\WachtrijApp\WachtrijApp\obj\Debug\WachtrijApp.exe
 C:\git\WachtrijApp\WachtrijApp\obj\Debug\WachtrijApp.pdb
+C:\Users\mick\Source\Repos\Thijmen-Scherders\PRA-B-\WachtrijApp\obj\Debug\WachtrijApp.csprojAssemblyReference.cache
+C:\Users\mick\Source\Repos\Thijmen-Scherders\PRA-B-\WachtrijApp\obj\Debug\WachtrijApp.FormWachtrij.resources
+C:\Users\mick\Source\Repos\Thijmen-Scherders\PRA-B-\WachtrijApp\obj\Debug\WachtrijApp.Properties.Resources.resources
+C:\Users\mick\Source\Repos\Thijmen-Scherders\PRA-B-\WachtrijApp\obj\Debug\WachtrijApp.csproj.GenerateResource.cache
+C:\Users\mick\Source\Repos\Thijmen-Scherders\PRA-B-\WachtrijApp\obj\Debug\WachtrijApp.csproj.CoreCompileInputs.cache
+C:\Users\mick\Source\Repos\Thijmen-Scherders\PRA-B-\WachtrijApp\obj\Debug\WachtrijApp.exe
+C:\Users\mick\Source\Repos\Thijmen-Scherders\PRA-B-\WachtrijApp\obj\Debug\WachtrijApp.pdb
+C:\Users\mick\Source\Repos\Thijmen-Scherders\PRA-B-\WachtrijApp\bin\Debug\SensorData\AttractieStatus.xml
+C:\Users\mick\Source\Repos\Thijmen-Scherders\PRA-B-\WachtrijApp\bin\Debug\SensorData\WachtrijSensoren.xml
+C:\Users\mick\Source\Repos\Thijmen-Scherders\PRA-B-\WachtrijApp\bin\Debug\WachtrijApp.exe.config
+C:\Users\mick\Source\Repos\Thijmen-Scherders\PRA-B-\WachtrijApp\bin\Debug\WachtrijApp.exe
+C:\Users\mick\Source\Repos\Thijmen-Scherders\PRA-B-\WachtrijApp\bin\Debug\WachtrijApp.pdb

@@ -147,7 +147,7 @@ namespace WachtrijApp
 
             string node3 = doc.DocumentElement.SelectSingleNode("/Status/Kar03").InnerText;
             string status5 = ConvertStatus(node3);
-            this.labelKar3.Text = $"Kar 3: {status5}";
+            this.label1.Text = $"Kar 3: {status5}";
         }
 
         //  Een methode welke een status-code omzet naar een status-beschrijving
